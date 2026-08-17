@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 생성된 이미지 결과물 (재생성 가능, 대용량)
+output/*.jpg
+output/*.jpeg
+output/*.png
+output/*.webp
+
+# 에디터
+.vscode/
+.idea/
+
+# 기타
+*.log
